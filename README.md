@@ -1,5 +1,5 @@
 # THE  SILENT WORLD (SDG 14)
-[https://mukulchauuhan.github.io/life-below-water.github.io/](https://mukulchauuhan.github.io/life-below-water.github.io/) <br/>
+[[(https://krishna9984.github.io/THE-SILENT-WORLD-MARINE-LIFE-/)](https://krishna9984.github.io/THE-SILENT-WORLD-MARINE-LIFE-/)] <br/>
 This project aims to promote awareness and action towards Sustainable Development Goal 14: Life Below Water. The website provides educational content, interactive features, and engaging visuals to highlight the importance of conserving and sustainably using the oceans, seas, and marine resources.
 
 ## Table of Contents
